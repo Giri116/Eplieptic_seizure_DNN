@@ -1,0 +1,66 @@
+vs_2KAV	 -9.0	Rapamycin.pdbqt_log.log
+vs_2KAV	 -7.5	Flunarizine.pdbqt_log.log
+vs_2KAV	 -6.0	Nisoldipine.pdbqt_log.log
+vs_2KAV	 -5.8	Phenytoin.pdbqt_log.log
+vs_2KAV	 -5.7	Ceftriaxone.pdbqt_log.log
+
+vs_3NAF	 -9.9	Rapamycin.pdbqt_log.log
+vs_3NAF	 -7.7	Nisoldipine.pdbqt_log.log
+vs_3NAF	 -7.6	Phenytoin.pdbqt_log.log
+vs_3NAF	 -7.5	Clonazepam.pdbqt_log.log
+vs_3NAF	 -7.4	Flunarizine.pdbqt_log.log
+
+vs_5FJV	-10.5	Rapamycin.pdbqt_log.log
+vs_5FJV	 -7.9	Clonazepam.pdbqt_log.log
+vs_5FJV	 -7.8	Flunarizine.pdbqt_log.log
+vs_5FJV	 -7.6	Ceftriaxone.pdbqt_log.log
+vs_5FJV	 -7.5	Phenytoin.pdbqt_log.log
+
+vs_6CET_one end	-10.5	Rapamycin.pdbqt_log.log
+vs_6CET_one end	 -9.1	Flunarizine.pdbqt_log.log
+vs_6CET_one end	 -8.6	Cannabidol.pdbqt_log.log
+vs_6CET_one end	 -8.4	Nisoldipine.pdbqt_log.log
+vs_6CET_one end	 -8.2	Oxcarbazepine.pdbqt_log.log
+
+vs_6CET_second end	-10.5	Rapamycin.pdbqt_log.log
+vs_6CET_second end	 -8.5	Carbamazepine.pdbqt_log.log
+vs_6CET_second end	 -8.4	Phenytoin.pdbqt_log.log
+vs_6CET_second end	 -8.2	Nisoldipine.pdbqt_log.log
+vs_6CET_second end	 -8.0	Flunarizine.pdbqt_log.log
+
+vs_6COY	-10.4	Rapamycin.pdbqt_log.log
+vs_6COY	 -8.2	Phenytoin.pdbqt_log.log
+vs_6COY	 -8.0	Nisoldipine.pdbqt_log.log
+vs_6COY	 -7.9	Flunarizine.pdbqt_log.log
+vs_6COY	 -7.8	Ceftriaxone.pdbqt_log.log
+
+vs_6X3Z	-11.7	Rapamycin.pdbqt_log.log
+vs_6X3Z	 -9.1	Flunarizine.pdbqt_log.log
+vs_6X3Z	 -8.5	Nisoldipine.pdbqt_log.log
+vs_6X3Z	 -8.4	Phenytoin.pdbqt_log.log
+vs_6X3Z	 -8.1	Nordazepam.pdbqt_log.log
+
+vs_7QN6	-11.7	Carbamazepine.pdbqt_log.log
+vs_7QN6	-11.4	Phenytoin.pdbqt_log.log
+vs_7QN6	-11.1	Rapamycin.pdbqt_log.log
+vs_7QN6	-10.5	Oxcarbazepine.pdbqt_log.log
+vs_7QN6	-10.3	Cannabidol.pdbqt_log.log
+
+vs_7SK2	-10.4	Rapamycin.pdbqt_log.log
+vs_7SK2	 -9.7	Flunarizine.pdbqt_log.log
+vs_7SK2	 -7.8	Phenytoin.pdbqt_log.log
+vs_7SK2	 -7.7	Carbamazepine.pdbqt_log.log
+vs_7SK2	 -7.6	Lorazipam.pdbqt_log.log
+
+vs_7UHG_center	-10.8	Rapamycin.pdbqt_log.log
+vs_7UHG_center	 -8.6	Nisoldipine.pdbqt_log.log
+vs_7UHG_center	 -8.4	Flunarizine.pdbqt_log.log
+vs_7UHG_center	 -8.3	Phenytoin.pdbqt_log.log
+vs_7UHG_center	 -8.1	Nimodipine.pdbqt_log.log
+
+vs_7UHG_one end	-10.8	Rapamycin.pdbqt_log.log
+vs_7UHG_one end	 -8.6	Nisoldipine.pdbqt_log.log
+vs_7UHG_one end	 -8.4	Flunarizine.pdbqt_log.log
+vs_7UHG_one end	 -8.3	Phenytoin.pdbqt_log.log
+vs_7UHG_one end	 -8.1	Nimodipine.pdbqt_log.log
+

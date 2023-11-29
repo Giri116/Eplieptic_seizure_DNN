@@ -1,0 +1,39 @@
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Output will be Leveteracitam_out.pdbqt
+Detected 12 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: -903798108
+Performing search ... done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -4.4      0.000      0.000
+   2         -4.2     22.692     23.946
+   3         -4.2     17.165     18.325
+   4         -4.2     31.981     33.141
+   5         -4.1     32.131     33.361
+   6         -4.0     45.778     47.677
+   7         -4.0     29.094     29.891
+   8         -3.9     50.252     51.664
+   9         -3.9     22.304     23.298
+  10         -3.9     22.745     23.965
+Writing output ... done.

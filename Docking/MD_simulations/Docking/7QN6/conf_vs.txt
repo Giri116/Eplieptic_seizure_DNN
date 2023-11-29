@@ -1,0 +1,12 @@
+receptor = receptor.pdbqt
+
+center_x = 132.391
+center_y = 129.899
+center_z = 126.091
+
+size_x = 126
+size_y = 126
+size_z = 126
+
+num_modes = 10
+energy_range = 4

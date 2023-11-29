@@ -1,0 +1,39 @@
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Output will be Ceftriaxone_out.pdbqt
+Detected 12 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 1285761472
+Performing search ... done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.0      0.000      0.000
+   2         -6.8      8.187     12.433
+   3         -6.5     33.889     38.980
+   4         -6.5     21.403     25.755
+   5         -6.5     33.933     38.837
+   6         -6.4     22.982     28.331
+   7         -6.4     24.500     27.517
+   8         -6.3      1.321      1.954
+   9         -6.2     35.788     42.635
+  10         -6.1     44.053     47.997
+Writing output ... done.
